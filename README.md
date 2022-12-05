@@ -1,16 +1,26 @@
-### Hi there 👋
+### Hey! I'm [@armandsauzay](https://twitter.com/armandsauzay) (Armand Sauzay) 👋
 
-<!--
-**armand-sauzay/armand-sauzay** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a software developer from 🇫🇷 currently living in San Francisco. 🇺🇸 
 
-Here are some ideas to get you started:
+I have been working in Data Science/ML roles in Europe and North America. I am currently working on Machine Learning projects at [Turo](https://turo.com/). 🤖
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+If you'd like to chat more, feel free to contact me. You can find me on: 
+<p align="center">
+<a href="https://github.com/armand-sauzay">
+    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" height="30" width="40" />
+</a>
+<a href="https://twitter.com/armandsauzay">
+    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" height="30" width="40" />
+</a>
+<a href="https://www.linkedin.com/in/armand-sauzay-80a70b160/">
+    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" height="30" width="40" />
+</a>
+<a href="https://armand-sauzay.github.io/#/about">
+    <img align="center" src="img/www.svg" alt="4214976" height="30" width="40" />
+</a>
+<a href="https://medium.com/@armand-sauzay">
+    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="4214976" height="30" width="40" />
+</a>
+<a href="https://dev.to/armandsauzay">
+    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" height="30" width="40" />
+</a>
