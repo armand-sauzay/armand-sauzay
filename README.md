@@ -2,7 +2,9 @@
 
 I'm a software developer from 🇫🇷 currently living in San Francisco. 🇺🇸 
 
-I have been working in Data Science/ML roles in Europe and North America. I am currently working on Machine Learning projects at [Turo](https://turo.com/). 🤖
+I have been working in Data Science/ML roles in Europe and North America and did my graduate studies at UC Berkeley. 🐻 
+
+I am currently working on Machine Learning projects at [Turo](https://turo.com/). 🤖
 
 If you'd like to chat more, feel free to contact me. You can find me on: 
 <p align="center">
