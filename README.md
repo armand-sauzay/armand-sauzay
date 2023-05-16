@@ -9,22 +9,22 @@ I am currently working on Machine Learning projects at [Turo](https://turo.com/)
 If you'd like to chat more, feel free to contact me. You can find me on: 
 <p align="center">
 <a href="https://github.com/armand-sauzay">
-    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" height="30" width="40" />
+    <img align="center" src= "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/brands/github.svg" height="30" width="40" />
 </a>
 <a href="https://twitter.com/armandsauzay">
-    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" height="30" width="40" />
+    <img align="center" src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/brands/twitter.svg" height="30" width="40" />
 </a>
 <a href="https://www.linkedin.com/in/armand-sauzay-80a70b160/">
-    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" height="30" width="40" />
+    <img align="center" src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/brands/linkedin.svg" height="30" width="40" />
 </a>
 <a href="https://armand-sauzay.github.io/#/about">
-    <img align="center" src="img/www.svg" alt="4214976" height="30" width="40" />
+    <img align="center" src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/solid/globe.svg" alt="4214976" height="30" width="40" />
 </a>
 <a href="https://medium.com/@armand-sauzay">
-    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="4214976" height="30" width="40" />
+    <img align="center" src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/brands/medium.svg" alt="4214976" height="30" width="40" />
 </a>
 <a href="https://dev.to/armandsauzay">
-    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" height="30" width="40" />
+    <img align="center" src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/brands/dev.svg" height="30" width="40" />
 </a>
 
 --- 
