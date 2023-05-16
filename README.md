@@ -26,6 +26,3 @@ If you'd like to chat more, feel free to contact me. You can find me on:
 <a href="https://dev.to/armandsauzay">
     <img align="center" src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/brands/dev.svg" height="30" width="40" />
 </a>
-
---- 
-[![Twitter Follow](https://img.shields.io/twitter/follow/armandsauzay?label=Follow&style=social)](https://twitter.com/armandsauzay) 
